@@ -656,42 +656,42 @@ li {
   transform: rotateY(180deg) translateZ(96px);
 }
 .cube.github-a div:nth-child(1) {
-  background: #c9dcee;
+  background: #d9cfe5;
 }
 .cube.github-a div:nth-child(2) {
-  background: #689cd0;
+  background: #977cb8;
 }
 .cube.github-a div:nth-child(3) {
-  background: #8fb6dc;
+  background: #b19dca;
 }
 .cube.github-a div:nth-child(4) {
-  background: #8fb6dc;
+  background: #b19dca;
 }
 .cube.github-a div:nth-child(5) {
-  background: #4183c4;
+  background: #7D5BA6;
 }
 .cube.github-a div:nth-child(6) {
-  background: #dde9f4;
-  color: #4183c4;
+  background: #e6dfee;
+  color: #7D5BA6;
 }
 .cube.github-b div:nth-child(1) {
-  background: #fff1b0;
+  background: #fff9f5;
 }
 .cube.github-b div:nth-child(2) {
-  background: #ffdb30;
+  background: #ffb675;
 }
 .cube.github-b div:nth-child(3) {
-  background: #ffe463;
+  background: #ffd1a8;
 }
 .cube.github-b div:nth-child(4) {
-  background: #ffe463;
+  background: #ffd1a8;
 }
 .cube.github-b div:nth-child(5) {
-  background: #fcd000;
+  background: #FF9B42;
 }
 .cube.github-b div:nth-child(6) {
-  background: #fff6c9;
-  color: #fcd000;
+  background: white;
+  color: #FF9B42;
 }
 .cube.github-c div:nth-child(1) {
   background: #8fbd94;
